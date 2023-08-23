@@ -109,8 +109,8 @@ static void MX_GPIO_Init(void)
 }
 ```
 ## Output  :
- 
- ![INPUT DE2](https://github.com/abinayasangeetha/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119393675/47cc7dd2-e8c7-419f-8000-ede19e1085d2)
+ ### SWITCH OFF
+<img src="![INPUT DE2](https://github.com/abinayasangeetha/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119393675/47cc7dd2-e8c7-419f-8000-ede19e1085d2)"width=475 height=475>
 
  
  ![OUTPUT DE2](https://github.com/abinayasangeetha/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119393675/1bee7daf-cc7f-4197-8156-57a16a44cb7a)
