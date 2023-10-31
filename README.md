@@ -27,10 +27,7 @@ STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 
 
 ## STM 32 CUBE PROGRAM :
-```
-NAME : ABINAYA S
-REG NO: 212222230002
-```
+
 ```
 #include "main.h"
 #include<stdbool.h>
